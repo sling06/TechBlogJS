@@ -1,14 +1,15 @@
 import React, { useMemo } from 'react'
 
+import Template from 'components/Common/Template'
 
 
-const utmParameters = `?utm_source=starter&utm_medium=start-page&utm_campaign=default-starter`
-
-const IndexPage = () => (
-  <div>
-    <h1>test</h1>
-  </div>
-)
+const IndexPage = () => {
+  return(
+    <Template>
+      
+    </Template>
+  )
+}
 
 /**
  * Head export to define metadata for the page

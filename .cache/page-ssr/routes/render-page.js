@@ -4763,13 +4763,13 @@ function getForwards(collectedScripts) {
 exports.components = {
   "component---cache-dev-404-page-js": () => __webpack_require__.e(/*! import() | component---cache-dev-404-page-js */ "component---cache-dev-404-page-js").then(__webpack_require__.bind(__webpack_require__, /*! ./../../dev-404-page.js?export=default */ "./.cache/dev-404-page.js?export=default")),
   "component---src-pages-404-js": () => __webpack_require__.e(/*! import() | component---src-pages-404-js */ "component---src-pages-404-js").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/404.js?export=default */ "./src/pages/404.js?export=default")),
-  "component---src-pages-index-js": () => __webpack_require__.e(/*! import() | component---src-pages-index-js */ "component---src-pages-index-js").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/index.js?export=default */ "./src/pages/index.js?export=default")),
+  "component---src-pages-index-jsx": () => __webpack_require__.e(/*! import() | component---src-pages-index-jsx */ "component---src-pages-index-jsx").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/index.jsx?export=default */ "./src/pages/index.jsx?export=default")),
   "component---src-templates-post-template-tsx": () => __webpack_require__.e(/*! import() | component---src-templates-post-template-tsx */ "component---src-templates-post-template-tsx").then(__webpack_require__.t.bind(__webpack_require__, /*! ./../../../src/templates/post_template.tsx?export=default */ "./src/templates/post_template.tsx?export=default", 23))
 };
 exports.head = {
   "component---cache-dev-404-page-js": () => __webpack_require__.e(/*! import() | component---cache-dev-404-page-jshead */ "component---cache-dev-404-page-jshead").then(__webpack_require__.bind(__webpack_require__, /*! ./../../dev-404-page.js?export=head */ "./.cache/dev-404-page.js?export=head")),
   "component---src-pages-404-js": () => __webpack_require__.e(/*! import() | component---src-pages-404-jshead */ "component---src-pages-404-jshead").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/404.js?export=head */ "./src/pages/404.js?export=head")),
-  "component---src-pages-index-js": () => __webpack_require__.e(/*! import() | component---src-pages-index-jshead */ "component---src-pages-index-jshead").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/index.js?export=head */ "./src/pages/index.js?export=head")),
+  "component---src-pages-index-jsx": () => __webpack_require__.e(/*! import() | component---src-pages-index-jsxhead */ "component---src-pages-index-jsxhead").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/index.jsx?export=head */ "./src/pages/index.jsx?export=head")),
   "component---src-templates-post-template-tsx": () => __webpack_require__.e(/*! import() | component---src-templates-post-template-tsxhead */ "component---src-templates-post-template-tsxhead").then(__webpack_require__.t.bind(__webpack_require__, /*! ./../../../src/templates/post_template.tsx?export=head */ "./src/templates/post_template.tsx?export=head", 23))
 };
 
